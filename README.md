@@ -23,22 +23,15 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
 </p>
 
-<br/>
 
-## 📊 My Github Stats
-  <br/>
 
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/malay-patoliya/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/patoliya_malay"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/malay_patoliya/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/hardik-dudhat-46967a139/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/HardikD17916466"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/_.hardik._._/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/malaypatoliya/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=malaypatoliya">
-</a>
-<a href="https://github.com/malaypatoliya?tab=followers"><img src="https://img.shields.io/github/followers/malaypatoliya?label=Followers&style=social" alt="GitHub Badge"></a>
+
